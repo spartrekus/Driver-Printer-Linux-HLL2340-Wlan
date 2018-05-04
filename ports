@@ -8,5 +8,9 @@ PORT     STATE SERVICE
 631/tcp  open  ipp
 9100/tcp open  jetdirect
 MAC Address: C0:38:96:64:AB:19 (Hon Hai Precision Ind.)
-
 Nmap done: 1 IP address (1 host up) scanned in 83.90 seconds
+
+Recommended for instance:
+ipp://192.168.52.8
+
+Recommended : lpstat -a 
