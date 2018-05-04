@@ -1,0 +1,12 @@
+ 993 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+23/tcp   open  telnet
+80/tcp   open  http
+443/tcp  open  https
+515/tcp  open  printer
+631/tcp  open  ipp
+9100/tcp open  jetdirect
+MAC Address: C0:38:96:64:AB:19 (Hon Hai Precision Ind.)
+
+Nmap done: 1 IP address (1 host up) scanned in 83.90 seconds
